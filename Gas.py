@@ -84,9 +84,9 @@ def banner():
     autoketik("""
 \033[1;96m╔╦╗\033[1;97m┌─┐┌─┐┬  ┌─┐   \033[1;92m╦ ╦\033[1;97m┌─┐ | \033[1;96mIm wass here
  \033[1;96m║ \033[1;97m│ ││ ││  └─┐"""+Fore.RED+"""───\033[1;92m║║║\033[1;97m├─┤ | \033[1;96mNo System is safe
- \033[1;96m╩ \033[1;97m└─┘└─┘┴─┘└─┘   \033[1;92m╚╩╝\033[1;97m┴ ┴ | Powered \033[1;96mSevID""")
+ \033[1;96m╩ \033[1;97m└─┘└─┘┴─┘└─┘   \033[1;92m╚╩╝\033[1;97m┴ ┴ | Powered \033[1;96mS3VMLN""")
     print(abu + '-' * os.get_terminal_size().columns, end=''*2)
-    print (Fore.RED+""" • \033[1;97mCreator"""+Fore.RED+""" : \033[1;92SevMLN-Executed""")
+    print (Fore.RED+""" • \033[1;97mCreator"""+Fore.RED+""" : \033[1;92mS3V-MLN""")
     print (Fore.RED+""" • \033[1;97mGithubb"""+Fore.RED+""" : \033[1;92mgithub.com/Sevmln""")
     print (Fore.RED+""" • \033[1;97mYour Ip"""+Fore.RED+""" : \033[1;92m"""+ip)
     print(abu + '-' * os.get_terminal_size().columns, end=''*2)
